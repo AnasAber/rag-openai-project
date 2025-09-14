@@ -17,4 +17,4 @@ This project implements Retrieval-Augmented Generation (RAG) using OpenAI's vect
 
 ## Usage
 
-execute `python3 rag_pipeline.py`, and enter your queestion.
+execute `python3 rag_pipeline.py`, and enter your question.
