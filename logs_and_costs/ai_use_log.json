@@ -1,0 +1,33 @@
+[
+  {
+    "timestamp": "2025-09-13 11:41:06",
+    "action": "retrieval",
+    "details": "Top-5 docs for query 'when do we enter prison ?'"
+  },
+  {
+    "timestamp": "2025-09-13 11:41:07",
+    "action": "reranking and retrieval of",
+    "details": "Top-3 docs for query 'when do we enter prison ?'"
+  },
+  {
+    "timestamp": "2025-09-13 11:41:08",
+    "action": "generation",
+    "details": "Answer generated for query 'when do we enter prison ?'"
+  }
+][
+  {
+    "timestamp": "2025-09-14 11:19:45",
+    "action": "retrieval",
+    "details": "Top-5 docs for query 'how to win in monopoly'"
+  },
+  {
+    "timestamp": "2025-09-14 11:19:46",
+    "action": "reranking and retrieval of",
+    "details": "Top-3 docs for query 'how to win in monopoly'"
+  },
+  {
+    "timestamp": "2025-09-14 11:19:54",
+    "action": "generation",
+    "details": "Answer generated for query 'how to win in monopoly'"
+  }
+]

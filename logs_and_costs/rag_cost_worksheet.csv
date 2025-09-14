@@ -1,0 +1,4 @@
+queries,embedding_tokens,prompt_tokens,completion_tokens,embedding_cost_usd,prompt_cost_usd,completion_cost_usd,total_cost_usd
+10,1000,15000,3000,0.00013,0.00225,0.0018,0.00418
+100,10000,150000,30000,0.0013,0.0225,0.018,0.0418
+1000,100000,1500000,300000,0.013,0.225,0.18,0.418
