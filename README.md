@@ -15,6 +15,12 @@ This project implements Retrieval-Augmented Generation (RAG) using OpenAI's vect
     pip install -r requirements.txt
 ```
 
+## Set environment
+```bash
+    cp .env.example .env and add OPENAI_API_KEY=sk-...
+```
+
+
 ## Usage
 
-execute `python3 rag_pipeline.py`, and enter your question.
+execute `python3 rag_pipeline.py`, and enter your queestion.
