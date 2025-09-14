@@ -4,13 +4,13 @@ This project implements Retrieval-Augmented Generation (RAG) using OpenAI's vect
 
 ## Requirements
 
-macOS/Linux:
+- macOS/Linux:
     ```bash
     python -m venv .venv && source .venv/bin/activate
     pip install -r requirements.txt
     ```
-Windows PowerShell:
-    ```bash
+- Windows PowerShell:
+```bash
     python -m venv .venv; .\.venv\Scripts\Activate.ps1
     pip install -r requirements.txt
     ```
@@ -20,9 +20,11 @@ Windows PowerShell:
     cp .env.example .env and add OPENAI_API_KEY=sk-...
     ```
 
-    Alternatively: ```bash
-    export OPENAI_API_KEY=sk-... (macOS/Linux)
+    ```bash
+    python -m venv .venv; .\.venv\Scripts\Activate.ps1
+    pip install -r requirements.txt
     ```
+
 
 ## Usage
 
